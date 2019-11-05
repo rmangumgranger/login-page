@@ -1,0 +1,25 @@
+{
+  "name": "login-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon run app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rmangumgranger/login-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmangumgranger/login-page/issues"
+  },
+  "homepage": "https://github.com/rmangumgranger/login-page#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "pg": "^7.12.1"
+  }
+}
